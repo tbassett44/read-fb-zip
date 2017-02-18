@@ -1,6 +1,6 @@
 {
   "name": "read-fb-zip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Module to allow reading of facebook export",
   "main": "index.js",
   "scripts": {
