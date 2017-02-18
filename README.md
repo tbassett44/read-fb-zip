@@ -6,7 +6,7 @@ Module to allow reading of facebook export
         var fbzip = require('read-fb-zip');
 
         fbzip.process({
-          file:'/root/fbdata.zip',
+          file:'/path-to-fbzip/fbdata.zip',
           onLink:function(url){
             console.log('link: '+url)
           },
